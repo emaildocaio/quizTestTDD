@@ -1,0 +1,17 @@
+{
+    "name": "caiofarias/example-2",
+    "autoload": {
+        "psr-4": {
+            "Caiofarias\\Example2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Caio Farias",
+            "email": "emaildocaio@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
